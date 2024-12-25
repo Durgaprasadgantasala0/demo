@@ -1,0 +1,43 @@
+07:23:09.965 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+07:23:10.298 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 7c:67:a2:ff:fe:63:71:fd (auto-detected)
+07:23:10.373 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+07:23:10.374 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+07:23:10.374 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7f98ec52
+07:23:10.409 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+07:23:10.409 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+07:23:10.409 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+07:23:10.410 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+07:23:10.410 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.delayedQueue.ratio: 8
+07:23:12.456 [TestNG-tests-1] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x0977440c688a1065
+07:23:12.502 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched chrome Browser
+07:23:12.524 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Strating TC_001_AccountRegistration
+07:23:16.058 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+07:23:16.845 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account 
+07:23:20.862 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register 
+07:23:21.014 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+07:23:21.148 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+07:23:21.285 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+07:23:21.382 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+07:23:21.479 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Password 
+07:23:21.578 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Confrmed Password 
+07:23:21.684 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Set Privacy Policy 
+07:23:24.725 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+07:23:29.769 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Account Registration Success 
+07:23:29.772 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Finished TC_001_AccountRegistration
+07:23:29.794 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+07:23:33.100 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched chrome Browser
+07:23:33.103 [TestNG-tests-1] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+07:23:36.529 [TestNG-tests-1] INFO  testCases.TC_002_Login - Home Page Displayed 
+07:23:36.829 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked on My Account 
+07:23:39.474 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked on Login 
+07:23:39.617 [TestNG-tests-1] INFO  testCases.TC_002_Login - Provided Email 
+07:23:39.751 [TestNG-tests-1] INFO  testCases.TC_002_Login - Provided Password 
+07:23:42.809 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked on Login
+07:23:47.874 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Success 
+07:23:47.875 [TestNG-tests-1] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+07:23:47.876 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+07:23:50.343 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.PoolThreadCache - Freed 25 thread-local buffer(s) from thread: AsyncHttpClient-1-2
+07:23:50.343 [AsyncHttpClient-1-3] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-3
+07:23:50.344 [AsyncHttpClient-1-4] DEBUG io.netty.buffer.PoolThreadCache - Freed 4 thread-local buffer(s) from thread: AsyncHttpClient-1-4
+07:23:50.344 [AsyncHttpClient-1-6] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-6
+07:23:50.344 [AsyncHttpClient-1-7] DEBUG io.netty.buffer.PoolThreadCache - Freed 4 thread-local buffer(s) from thread: AsyncHttpClient-1-7
